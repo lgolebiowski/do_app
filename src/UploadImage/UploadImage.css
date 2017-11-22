@@ -1,0 +1,28 @@
+.file_input {
+	color: red;
+}
+input[type="file"] {
+    display: none;
+}
+.custom_file_upload {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 6px;
+    cursor: pointer;
+    background-color: #6E8E9E;
+    width: 100%;
+    height: 41px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 22px;
+    color: #fff;
+    font-weight: normal;
+}
+.custom_file_upload input[type="file"]{
+    display: none;
+}
+.img_preview img {
+	width: 50%;
+}

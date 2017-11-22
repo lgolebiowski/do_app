@@ -1,0 +1,62 @@
+.App .row {
+  margin: 0px;
+}
+.col-sm-6, .col-xs-12 label {
+  font-weight: normal;
+}
+.title {
+  padding-left: 10px;
+  margin-top: 36px;
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+.right {
+  background-color: #E7E9EC;
+  height: 600px;
+  padding-left: 30px;
+}
+.left {
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+.left .col-sm-6 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.input_details {
+  padding-bottom: 2px;
+  margin: 0px 10px 22px;
+  text-transform: uppercase;
+  font-family: Arial;
+  color: #C3CBCD;
+  font-size: 12px;
+  border-bottom: 1px solid #C3CBCD;
+}
+.form-group label {
+  padding-bottom: 2px;
+  margin-bottom: 0px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  color: #4E6374;
+}
+.form-control {
+  font-family: Avenir;
+  font-size: 15px;
+  height: 40px;
+}
+.form-group {
+  text-align: left;
+  margin-bottom: 13px;
+}
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.label_wrapper {
+  display: inline-block;
+}
+
+
+
